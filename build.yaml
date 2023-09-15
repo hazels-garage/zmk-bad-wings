@@ -4,4 +4,6 @@ include:
   - board: raytac_mdbt50q_rx
     shield: bad_wings_dongle
   - board: seeeduino_xiao_ble
+    shield: bad_wings_dongle    
+  - board: seeeduino_xiao_ble
     shield: settings_reset    
